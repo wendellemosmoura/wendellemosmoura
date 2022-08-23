@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wendellemosmoura
 - 👀 I’m interested in Java, JavaScript, Python.
-- 🌱 I’m currently learning Java, JavaScript, Python.
+- 🌱 I’m currently learning Python and some web frameworks.
 
 
 <!---
