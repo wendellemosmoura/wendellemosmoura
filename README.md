@@ -19,6 +19,12 @@
     <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
+<div>
+  <a href="https://github.com/wendellemosmoura">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wendellemosmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellemosmoura&layout=compact&langs_count=7&count_private=true&theme=tokyonight"/>-->
+</div>
+
 ### Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-lemos-17765262/)
