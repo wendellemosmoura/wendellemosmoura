@@ -18,7 +18,7 @@
     <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">    
     <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
-
+<br>
 <div>
   <a href="https://github.com/wendellemosmoura">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wendellemosmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
