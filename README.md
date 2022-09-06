@@ -2,7 +2,7 @@
 
 - 🧐 Estudante de análise e desenvolvimento de sistemas na Unicesumar, entusiasmado por tecnologia, busco aprender e aperfeiçoar cada vez mais os conhecimentos relativos à programação.
 - 🔭 Trabalho como desenvolvedor Back-end utilizando Python e Java, Front-end utilizando HTML, CSS, Javascript e Bootstrap.
-- 🌱 Atualmente estou aprofundando meus conhecimentos nas linguagem Python, Java e seus principais frameworks.
+- 🌱 Atualmente estou aprofundando meus conhecimentos nas linguagens Python, Java e seus principais frameworks.
 
 ### Tecnologias que já tenho experiência:
 
