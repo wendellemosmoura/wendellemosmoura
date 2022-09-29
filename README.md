@@ -4,7 +4,7 @@
 - 🔭 Trabalho como desenvolvedor Back-end utilizando Python e Java, Front-end utilizando HTML, CSS, Javascript e Bootstrap.
 - 🌱 Atualmente estou aprofundando meus conhecimentos nas linguagens Python, Java e seus principais frameworks.
 
-### Tecnologias que já tenho experiência:
+### Tecnologias que já utilizei:
 
 <div style="display: inline_block">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
