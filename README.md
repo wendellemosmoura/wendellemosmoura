@@ -44,7 +44,7 @@ Full stack developer and tech enthusiast. Keeping myself challenged and up to da
 ### Links
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendellemosmoura/)](https://www.linkedin.com/in/wendellemosmoura/) 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=Gmail&logoColor=white&link=mailto:wendellemosmoura@gmail.com)](mailto:wendellemosmoura@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:wendellemosmoura@gmail.com)](mailto:wendellemosmoura@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wendellemos/)](https://www.instagram.com/wendellemos/)
 
 <div>
   <a href="https://github.com/wendellemosmoura">
