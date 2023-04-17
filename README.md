@@ -48,6 +48,6 @@ Full stack developer and tech enthusiast. Keeping myself challenged and up to da
 
 <div>
   <a href="https://github.com/wendellemosmoura">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wendellemosmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellemosmoura&layout=compact&langs_count=7&count_private=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wendellemosmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wendellemosmoura&layout=compact&langs_count=7&count_private=true&theme=tokyonight"/>
 </div>
