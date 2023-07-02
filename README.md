@@ -1,7 +1,7 @@
 # Wendel Lemos 🇧🇷
 
 ### About me
-Full stack developer and tech enthusiast. Keeping myself challenged and up to date are my motivations. 🤖
+Back-end developer and technology enthusiast. Keeping myself challenged and up to date are my motivations.
 
 #
 
@@ -31,13 +31,14 @@ Full stack developer and tech enthusiast. Keeping myself challenged and up to da
 
 📚 Currently studying:
 <img align="center" alt="Angular" height="25" width="25" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="React" height="25" width="25" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 📝 Interested in:
 <img align="center" alt="amazonwebservices" height="25" width="25" title="Amazon Web Services" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 <img align="center" alt="azure" height="25" width="25" title="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 <img align="center" alt="Redis" height="25" width="25" title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 <img align="center" alt="VueJS" height="25" width="25" title="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img align="center" alt="React" height="25" width="25" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Kotlin" height="25" width="25" title="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
 #
 
