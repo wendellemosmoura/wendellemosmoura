@@ -31,6 +31,7 @@ Back-end developer and technology enthusiast. Keeping myself challenged and up t
 
 📚 Currently studying:
 <img align="center" alt="Angular" height="25" width="25" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Apache Kafka" height="25" width="25" title="Apache Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
 
 📝 Interested in:
 <img align="center" alt="amazonwebservices" height="25" width="25" title="Amazon Web Services" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
