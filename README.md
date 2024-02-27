@@ -24,6 +24,7 @@ Back-end developer and technology enthusiast. Keeping myself challenged and up t
 <img align="center" alt="MongoDB" height="25" width="25" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="MySQL" height="25" width="25" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="PostgreSQL" height="25" width="25" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Redis" height="25" width="25" title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 <img align="center" alt="Linux" height="25" width="25" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="Git" height="25" width="25" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Docker" height="25" width="25" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
@@ -32,11 +33,10 @@ Back-end developer and technology enthusiast. Keeping myself challenged and up t
 📚 Currently studying:
 <img align="center" alt="Angular" height="25" width="25" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 <img align="center" alt="Apache Kafka" height="25" width="25" title="Apache Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+<img align="center" alt="amazonwebservices" height="25" width="25" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 📝 Interested in:
-<img align="center" alt="amazonwebservices" height="25" width="25" title="Amazon Web Services" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 <img align="center" alt="azure" height="25" width="25" title="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-<img align="center" alt="Redis" height="25" width="25" title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 <img align="center" alt="VueJS" height="25" width="25" title="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img align="center" alt="React" height="25" width="25" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Kotlin" height="25" width="25" title="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
