@@ -14,8 +14,8 @@ Back-end developer and technology enthusiast. Keeping myself challenged and up t
 <img align="center" alt="Django" height="25" width="25" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 <img align="center" alt="Pandas" height="25" width="25" title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 <img align="center" alt="Numpy" height="25" width="25" title="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-<img align="center" alt="NodeJS" height="25" width="25" title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Express" height="25" width="25" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<img align="center" alt="Apache Kafka" height="25" width="25" title="Apache Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+<img align="center" alt="Apache Kafka" height="25" width="25" title="RabbitMQ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 <img align="center" alt="JavaScript" height="25" width="25" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="jQuery" height="25" width="25" title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 <img align="center" alt="HTML" height="25" width="25" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,7 +32,6 @@ Back-end developer and technology enthusiast. Keeping myself challenged and up t
 
 📚 Currently studying:
 <img align="center" alt="Angular" height="25" width="25" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="Apache Kafka" height="25" width="25" title="Apache Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
 <img align="center" alt="amazonwebservices" height="25" width="25" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 📝 Interested in:
@@ -46,7 +45,6 @@ Back-end developer and technology enthusiast. Keeping myself challenged and up t
 ### Links
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendellemosmoura/)](https://www.linkedin.com/in/wendellemosmoura/) 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat&logo=Gmail&logoColor=white&link=mailto:wendellemosmoura@gmail.com)](mailto:wendellemosmoura@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wendellemos/)](https://www.instagram.com/wendellemos/)
 
 <div>
   <a href="https://github.com/wendellemosmoura">
